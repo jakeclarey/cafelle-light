@@ -1,0 +1,33 @@
+{
+  "name": "cafelle-light",
+  "displayName": "Cafelle - Light",
+  "description": "A light color theme without borders!",
+  "version": "1.0.0",
+  "publisher": "JacobClarey",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "repository": {},
+  "keywords": [
+    "theme",
+    "light theme",
+    "cafelle",
+    "jakeclarey",
+    "jake",
+    "clarey",
+    "Jacob Clarey",
+    "cafelle light"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cafelle",
+        "uiTheme": "vs",
+        "path": "./themes/Cafelle-color-theme.json"
+      }
+    ]
+  }
+}
