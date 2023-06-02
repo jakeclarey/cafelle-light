@@ -7,7 +7,10 @@
   "engines": {
     "vscode": "^1.78.0"
   },
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakeclarey/cafelle-light"
+  },
   "keywords": [
     "theme",
     "light theme",
