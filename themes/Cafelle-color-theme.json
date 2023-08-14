@@ -21,7 +21,7 @@
 		"button.foreground": "#ebfdff",
 		"button.hoverBackground": "#00cccc",
 		"debugExceptionWidget.background": "#b88e5b",
-		"debugExceptionWidget.border": "#19c6d200",
+		"debugExceptionWidget.border": "#128e9600",
 		"debugToolBar.background": "#b88e5b",
 		"descriptionForeground": "#ffffff",
 		"diffEditor.insertedTextBackground": "#52b85227",
@@ -73,8 +73,8 @@
 		"editorHint.foreground": "#52b852",
 		"editorHoverWidget.background": "#b88e5b",
 		"editorHoverWidget.border": "#7b5e3a00",
-		"editorIndentGuide.activeBackground": "#4d743e",
-		"editorIndentGuide.background": "#223b3f",
+		"editorIndentGuide.activeBackground1": "#4d743e",
+		"editorIndentGuide.background1": "#223b3f",
 		"editorInfo.border": "#fede9d00",
 		"editorInfo.foreground": "#32c194",
 		"editorLineNumber.activeForeground": "#4db2bf",
@@ -269,7 +269,7 @@
 		"terminalCursor.background": "#ffd28e",
 		"terminalCursor.foreground": "#5a5a5a",
 		"textBlockQuote.background": "#b88e5b",
-		"textBlockQuote.border": "#19c6d200",
+		"textBlockQuote.border": "#128e9600",
 		"textCodeBlock.background": "#b88e5b",
 		"textLink.activeForeground": "#32c194",
 		"textLink.foreground": "#32c194",
@@ -1889,7 +1889,7 @@
 				"source.tf support.class"
 			],
 			"settings": {
-				"foreground": "#19C6D2"
+				"foreground": "#128e96"
 			}
 		},
 		{
