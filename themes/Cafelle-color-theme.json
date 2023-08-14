@@ -21,7 +21,7 @@
 		"button.foreground": "#ebfdff",
 		"button.hoverBackground": "#00cccc",
 		"debugExceptionWidget.background": "#b88e5b",
-		"debugExceptionWidget.border": "#006a6a00",
+		"debugExceptionWidget.border": "#2ed2ba00",
 		"debugToolBar.background": "#b88e5b",
 		"descriptionForeground": "#ffffff",
 		"diffEditor.insertedTextBackground": "#52b85227",
@@ -36,7 +36,7 @@
 		"editor.foreground": "#5a5a5a",
 		"editor.hoverHighlightBackground": "#4db2bf3f",
 		"editor.inactiveSelectionBackground": "#0e657155",
-		"editor.lineHighlightBackground": "#e7c298ee",
+		"editor.lineHighlightBackground": "#ffffff6a",
 		"editor.lineHighlightBorder": "#e7c29800",
 		"editor.rangeHighlightBackground": "#e7c298a1",
 		"editor.selectionBackground": "#4db2bf44",
@@ -45,7 +45,7 @@
 		"editor.snippetFinalTabstopHighlightBorder": "#04212400",
 		"editor.snippetTabstopHighlightBackground": "#03181b",
 		"editor.snippetTabstopHighlightBorder": "#04212400",
-		"editor.wordHighlightBackground": "#328f6e33",
+		"editor.wordHighlightBackground": "#ffffff",
 		"editor.wordHighlightStrongBackground": "#cc990033",
 		"editorBracketHighlight.foreground1": "#6d4276",
 		"editorBracketHighlight.foreground2": "#22b274",
@@ -269,7 +269,7 @@
 		"terminalCursor.background": "#ffd28e",
 		"terminalCursor.foreground": "#5a5a5a",
 		"textBlockQuote.background": "#b88e5b",
-		"textBlockQuote.border": "#006a6a00",
+		"textBlockQuote.border": "#2ed2ba00",
 		"textCodeBlock.background": "#b88e5b",
 		"textLink.activeForeground": "#32c194",
 		"textLink.foreground": "#32c194",
@@ -353,7 +353,7 @@
 		//"editor.linkedEditingBackground": "#ff00004d",
 		//"editor.stackFrameHighlightBackground": "#ffff0033",
 		//"editor.symbolHighlightBackground": "#71dbca79",
-		//"editor.wordHighlightTextBackground": "#328f6e33",
+		//"editor.wordHighlightTextBackground": "##ffffff",
 		//"editorActiveLineNumber.foreground": "#c6c6c6",
 		//"editorBracketHighlight.unexpectedBracket.foreground": "#ff1212cc",
 		//"editorBracketPairGuide.activeBackground1": "#00000000",
@@ -1889,7 +1889,7 @@
 				"source.tf support.class"
 			],
 			"settings": {
-				"foreground": "#006a6a"
+				"foreground": "#2ed2ba"
 			}
 		},
 		{

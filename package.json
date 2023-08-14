@@ -2,7 +2,7 @@
   "name": "cafelle-light",
   "displayName": "Cafelle - Light",
   "description": "A light color theme without borders!",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "JacobClarey",
   "engines": {
     "vscode": "^1.78.0"
